@@ -1,0 +1,630 @@
+{
+  "timezone": "America/Los_Angeles",
+  "weekOf": "2026-10-24",
+  "through": "2026-11-01",
+  "about": "Replace the events array each Monday. Field meanings, multi-day rules, and the Pacific offset are documented in the README. Do not invent prices or URLs.",
+  "events": [
+    {
+      "id": "W1-1",
+      "name": "Seattle Coffee Festival",
+      "start": "2026-10-24T00:00:00-07:00",
+      "end": "2026-10-25T23:59:59-07:00",
+      "allDay": true,
+      "venue": "Magnuson Park Hangar 30, Sand Point",
+      "area": "Seattle",
+      "category": "Food & drink / markets",
+      "price": "$30.60–$88.92",
+      "url": "https://www.seattlecoffeefestival.com/",
+      "source": "seattlecoffeefestival.com",
+      "isPick": true,
+      "rating": 3,
+      "note": "Timed sessions both days; exact session times are on the event page. Listed here as all day Sat Oct 24 and Sun Oct 25.",
+      "lat": 47.6795,
+      "lng": -122.2544
+    },
+    {
+      "id": "W1-2",
+      "name": "Seattle Antiquarian Book Fair",
+      "start": "2026-10-24T10:00:00-07:00",
+      "end": "2026-10-25T16:00:00-07:00",
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-24T10:00:00-07:00",
+          "end": "2026-10-24T18:00:00-07:00"
+        },
+        {
+          "start": "2026-10-25T11:00:00-07:00",
+          "end": "2026-10-25T16:00:00-07:00"
+        }
+      ],
+      "venue": "Seattle Center Exhibition Hall, Lower Queen Anne",
+      "area": "Seattle",
+      "category": "Arts & culture",
+      "price": "$10 at door, both days",
+      "url": "https://www.seattlebookfair.com/",
+      "source": "seattlebookfair.com",
+      "isPick": true,
+      "rating": 2,
+      "note": null,
+      "lat": 47.624,
+      "lng": -122.3515
+    },
+    {
+      "id": "W1-3",
+      "name": "Seattle Philharmonic: Demons, Vampires, Witches… A Philharmonic Halloween",
+      "start": "2026-10-24T14:00:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "Benaroya Hall (Taper Auditorium), Downtown",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "$34.60",
+      "url": "https://seattlephil.org/concerts-and-tickets/concert/demons-vampires-witches/",
+      "source": "seattlephil.org",
+      "isPick": true,
+      "rating": 4,
+      "note": null,
+      "lat": 47.6081,
+      "lng": -122.337
+    },
+    {
+      "id": "W1-4",
+      "name": "Dinosaur Jr. with Stef Chura",
+      "start": "2026-10-24T20:00:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "Neptune Theatre, U District",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "Not listed",
+      "url": "https://www.stgpresents.org/events/dinosaur-jr/",
+      "source": "stgpresents.org",
+      "isPick": true,
+      "rating": 4,
+      "note": "Doors 7pm, show 8pm.",
+      "lat": 47.6611,
+      "lng": -122.314
+    },
+    {
+      "id": "W1-5",
+      "name": "Earshot Jazz Fest: Myra Melford / Ches Smith / Michael Formanek, Splash",
+      "start": "2026-10-24T17:00:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "The Royal Room, Columbia City",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "$20–$40 + fees",
+      "url": "https://earshotjazz.my.salesforce-sites.com/ticket/",
+      "source": "Earshot Jazz tickets",
+      "isPick": true,
+      "rating": 2,
+      "note": null,
+      "lat": 47.5569,
+      "lng": -122.2843
+    },
+    {
+      "id": "W1-6",
+      "name": "Earshot Jazz Fest closer: Jelly Roll Soul, The Music of Charles Mingus",
+      "start": "2026-10-25T19:30:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "Hidden Hall, Fremont (21+)",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "$20.52–$35.95 incl. fees",
+      "url": "https://www.earshot.org/festival/",
+      "source": "earshot.org",
+      "isPick": true,
+      "rating": null,
+      "note": "Doors 6:30pm, show 7:30pm. 21+.",
+      "lat": 47.6516,
+      "lng": -122.3542
+    },
+    {
+      "id": "W1-7",
+      "name": "Circus of Steam & Shadows: Paranormal Archives",
+      "start": "2026-10-24T19:00:00-07:00",
+      "end": null,
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-24T19:00:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-24T19:30:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-24T20:00:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-24T20:30:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-25T19:00:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-25T19:30:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-25T20:00:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-25T20:30:00-07:00",
+          "end": null
+        }
+      ],
+      "venue": "Georgetown Steam Plant, Georgetown",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "$10–$40",
+      "url": "https://www.orokiproductions.com/productions/circus-of-steam-shadows-paranormal-archives",
+      "source": "orokiproductions.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Tour length isn't listed. Tours at 7, 7:30, 8, and 8:30pm both days.",
+      "lat": 47.5428,
+      "lng": -122.3163
+    },
+    {
+      "id": "W1-8",
+      "name": "Ballard Farmers Market",
+      "start": "2026-10-25T09:00:00-07:00",
+      "end": "2026-10-25T14:00:00-07:00",
+      "allDay": false,
+      "venue": "Ballard Ave NW, Ballard",
+      "area": "Seattle",
+      "category": "Food & drink / markets",
+      "price": "Free entry",
+      "url": "https://www.sfmamarkets.com/visit-ballard-farmers-market",
+      "source": "sfmamarkets.com",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6673,
+      "lng": -122.3845
+    },
+    {
+      "id": "W1-9",
+      "name": "PSMS Wild Mushroom Show",
+      "start": "2026-10-25T10:00:00-07:00",
+      "end": "2026-10-25T17:00:00-07:00",
+      "allDay": false,
+      "venue": "Shoreline Community College, Shoreline",
+      "area": "Shoreline",
+      "category": "Outdoors & hikes",
+      "price": "$10 adults, $5 students",
+      "url": "https://www.psms.org/wild_mushroom_show.php",
+      "source": "psms.org",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.749,
+      "lng": -122.3599
+    },
+    {
+      "id": "W1-19",
+      "name": "Arboretum Walking Tour (UW Botanic Gardens)",
+      "start": "2026-10-24T10:00:00-07:00",
+      "end": "2026-10-24T11:30:00-07:00",
+      "allDay": false,
+      "venue": "Washington Park Arboretum, Montlake",
+      "area": "Seattle",
+      "category": "Outdoors & hikes",
+      "price": "$20 first ticket, $15 each additional",
+      "url": "https://calendar.washington.edu/Arboretum-Walking-Tour/E204162249",
+      "source": "calendar.washington.edu",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6398,
+      "lng": -122.2944
+    },
+    {
+      "id": "W1-24",
+      "name": "Vertigo Zoo: A U2 Tribute (two shows)",
+      "start": "2026-10-24T18:00:00-07:00",
+      "end": "2026-10-24T22:00:00-07:00",
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-24T18:00:00-07:00",
+          "end": "2026-10-24T19:30:00-07:00"
+        },
+        {
+          "start": "2026-10-24T20:30:00-07:00",
+          "end": "2026-10-24T22:00:00-07:00"
+        }
+      ],
+      "venue": "Bake's Place Bar & Bistro, Downtown Bellevue",
+      "area": "Bellevue",
+      "category": "Live music & shows",
+      "price": "$40 music charge + $30 food/drink minimum",
+      "url": "https://bakesplacebellevue.com/bellevue-bellevue-bake-s-place-bar-and-bistro-live-music",
+      "source": "bakesplacebellevue.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Two shows, 6–7:30pm and 8:30–10pm. Bake's Place adds the music charge to the bill and has a per-person food and drink minimum.",
+      "lat": 47.6119,
+      "lng": -122.1969
+    },
+    {
+      "id": "W1-25",
+      "name": "Bellevue Symphony Fall Extravaganza (Totentanz)",
+      "start": "2026-10-25T15:00:00-07:00",
+      "end": "2026-10-25T17:00:00-07:00",
+      "allDay": false,
+      "venue": "Theatre at Meydenbauer Center, Downtown Bellevue",
+      "area": "Bellevue",
+      "category": "Live music & shows",
+      "price": "$44.52 adults, $30 seniors/students",
+      "url": "https://www.eventbrite.com/e/bellevue-symphony-fall-extravaganza-tickets-1996168350271",
+      "source": "eventbrite.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Pre-show talk at 2:10pm. The listed time is the 3–5pm concert.",
+      "lat": 47.6159,
+      "lng": -122.1919
+    },
+    {
+      "id": "W1-26",
+      "name": "Andy Stokes & the Bake's Place All-Stars: The Great Male Voices of Soul and R&B",
+      "start": "2026-10-25T19:00:00-07:00",
+      "end": "2026-10-25T20:30:00-07:00",
+      "allDay": false,
+      "venue": "Bake's Place Bar & Bistro, Downtown Bellevue",
+      "area": "Bellevue",
+      "category": "Live music & shows",
+      "price": "$35 cover + $40 food/drink minimum",
+      "url": "https://bakesplacebellevue.com/bellevue-bellevue-bake-s-place-bar-and-bistro-live-music",
+      "source": "bakesplacebellevue.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Doors 5pm, show 7–8:30pm. Bake's Place adds the music charge to the bill and has a per-person food and drink minimum.",
+      "lat": 47.6119,
+      "lng": -122.1969
+    },
+    {
+      "id": "W1-20",
+      "name": "The Chicks: Taking the Long Way (20th anniversary, full album)",
+      "start": "2026-10-25T20:30:00-07:00",
+      "end": null,
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-25T20:30:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-26T20:30:00-07:00",
+          "end": null
+        }
+      ],
+      "venue": "Benaroya Hall (Taper Auditorium), Downtown",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "Face value not listed; resale from about $334",
+      "url": "https://www.livenation.com/event/vvG1HZ_52nooej/the-chicks-taking-the-long-way",
+      "source": "livenation.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Separate shows Sunday and Monday, both at 8:30pm. Face value isn't shown; about $334 is the lowest resale listing seen Oct 24.",
+      "lat": 47.6081,
+      "lng": -122.337
+    },
+    {
+      "id": "W1-23",
+      "name": "Melissa Messer: solo show (final week)",
+      "start": "2026-10-24T12:00:00-07:00",
+      "end": "2026-10-31T17:00:00-07:00",
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-24T12:00:00-07:00",
+          "end": "2026-10-24T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-25T12:00:00-07:00",
+          "end": "2026-10-25T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-26T12:00:00-07:00",
+          "end": "2026-10-26T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-27T12:00:00-07:00",
+          "end": "2026-10-27T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-28T12:00:00-07:00",
+          "end": "2026-10-28T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-29T12:00:00-07:00",
+          "end": "2026-10-29T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-30T12:00:00-07:00",
+          "end": "2026-10-30T17:00:00-07:00"
+        },
+        {
+          "start": "2026-10-31T12:00:00-07:00",
+          "end": "2026-10-31T17:00:00-07:00"
+        }
+      ],
+      "venue": "Spectrum Fine Art, Seattle",
+      "area": "Seattle",
+      "category": "Arts & culture",
+      "price": "Not listed",
+      "url": "https://spectrumfineart.com/show/spectrum-fine-art-melissa-messer",
+      "source": "spectrumfineart.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Dates and hours come from The Stranger's agenda; the gallery page shows the works only. Listed as through Sat Oct 31, 12–5pm, so each day Sat Oct 24–Sat Oct 31 is included. Closed days weren't specified.",
+      "lat": 47.6133,
+      "lng": -122.2896
+    },
+    {
+      "id": "W1-29",
+      "name": "Redmond Karwachauth & Diwali Bazaar",
+      "start": "2026-10-24T13:00:00-07:00",
+      "end": "2026-10-24T20:00:00-07:00",
+      "allDay": false,
+      "venue": "Hilton Garden Inn, Redmond",
+      "area": "Redmond",
+      "category": "Food & drink / markets",
+      "price": "Free entry and parking",
+      "url": "https://www.eventbrite.com/e/redmond-karwachauth-and-diwali-bazaar-2026-tickets-1987171722114",
+      "source": "eventbrite.com",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6734,
+      "lng": -122.1186
+    },
+    {
+      "id": "W1-12",
+      "name": "Seattle Restaurant Week",
+      "start": "2026-10-24T00:00:00-07:00",
+      "end": "2026-10-31T23:59:59-07:00",
+      "allDay": true,
+      "venue": "250+ restaurants, citywide",
+      "area": "Seattle",
+      "category": "Food & drink / markets",
+      "price": "Menus at $20 / $35 / $50 / $65",
+      "url": "https://srweek.org/",
+      "source": "srweek.org",
+      "isPick": true,
+      "rating": null,
+      "note": "Each restaurant sets its own days and hours. The source lists this as through Sat Oct 31, with no single address, so it appears every day Sat Oct 24–Sat Oct 31 and has no map point.",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "W1-21",
+      "name": "Frankie Cosmos: Celebrating 10 Years of Next Thing, with Coral Grief",
+      "start": "2026-10-26T20:00:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "The Crocodile, Belltown",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "$37.44",
+      "url": "https://calendar.thecrocodile.com/shows/frankie-cosmos-celebrating-10-years-of-next-thing-26-oct",
+      "source": "thecrocodile.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Doors 7pm, show 8pm.",
+      "lat": 47.6146,
+      "lng": -122.3491
+    },
+    {
+      "id": "W1-30",
+      "name": "Eastside Audubon Bird Walk at Marymoor Park",
+      "start": "2026-10-28T08:00:00-07:00",
+      "end": "2026-10-28T11:00:00-07:00",
+      "allDay": false,
+      "venue": "Marymoor Park, Redmond",
+      "area": "Redmond",
+      "category": "Outdoors & hikes",
+      "price": "Free, no registration ($1 cash parking)",
+      "url": "https://www.eastsideaudubon.org/calendar/2026/7/marymoor-park-63f43",
+      "source": "eastsideaudubon.org",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6587,
+      "lng": -122.1111
+    },
+    {
+      "id": "W1-22",
+      "name": "After Hours Premier: Halloween (21+)",
+      "start": "2026-10-29T19:00:00-07:00",
+      "end": "2026-10-29T22:00:00-07:00",
+      "allDay": false,
+      "venue": "Seattle Aquarium, Pier 59, Waterfront",
+      "area": "Seattle",
+      "category": "Food & drink / markets",
+      "price": "Not listed on event page",
+      "url": "https://www.seattleaquarium.org/events/after-hours-halloween/",
+      "source": "seattleaquarium.org",
+      "isPick": true,
+      "rating": null,
+      "note": "21+.",
+      "lat": 47.6076,
+      "lng": -122.3432
+    },
+    {
+      "id": "W1-27",
+      "name": "Annie Eastwood & Her All-Star Band",
+      "start": "2026-10-30T20:00:00-07:00",
+      "end": "2026-10-30T21:30:00-07:00",
+      "allDay": false,
+      "venue": "Bake's Place Bar & Bistro, Downtown Bellevue",
+      "area": "Bellevue",
+      "category": "Live music & shows",
+      "price": "$30 music charge + $30 food/drink minimum",
+      "url": "https://bakesplacebellevue.com/bellevue-bellevue-bake-s-place-bar-and-bistro-live-music",
+      "source": "bakesplacebellevue.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Bake's Place adds the music charge to the bill and has a per-person food and drink minimum.",
+      "lat": 47.6119,
+      "lng": -122.1969
+    },
+    {
+      "id": "W1-14",
+      "name": "Candlelight: A Haunted Evening of Halloween Classics",
+      "start": "2026-10-30T18:30:00-07:00",
+      "end": null,
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-30T18:30:00-07:00",
+          "end": null
+        },
+        {
+          "start": "2026-10-30T20:45:00-07:00",
+          "end": null
+        }
+      ],
+      "venue": "National Nordic Museum, Ballard",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "From $49",
+      "url": "https://feverup.com/m/438814",
+      "source": "feverup.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Two shows, 6:30pm and 8:45pm. Price is from ticket listings; check the Fever page for current tiers. End times aren't listed.",
+      "lat": 47.6683,
+      "lng": -122.3918
+    },
+    {
+      "id": "W1-16",
+      "name": "Gorillaz: The Mountain Tour (Halloween tour finale)",
+      "start": "2026-10-31T19:30:00-07:00",
+      "end": null,
+      "allDay": false,
+      "venue": "Climate Pledge Arena, Seattle Center",
+      "area": "Seattle",
+      "category": "Live music & shows",
+      "price": "Face value not listed; resale from $129",
+      "url": "https://climatepledgearena.com/event/gorillaz-26/",
+      "source": "climatepledgearena.com",
+      "isPick": true,
+      "rating": null,
+      "note": "Doors 6:30pm, show 7:30pm. Face-value price isn't shown on the arena page; $129 is the lowest resale listing as of Oct 23.",
+      "lat": 47.6219,
+      "lng": -122.354
+    },
+    {
+      "id": "W1-17",
+      "name": "Fashionably Undead: MOPOP's Halloween Bash",
+      "start": "2026-10-31T20:00:00-07:00",
+      "end": "2026-11-01T00:00:00-07:00",
+      "allDay": false,
+      "venue": "MOPOP, Seattle Center",
+      "area": "Seattle",
+      "category": "Arts & culture",
+      "price": "$43 ($39 members)",
+      "url": "https://www.mopop.org/events/fashionably-undead-space",
+      "source": "mopop.org",
+      "isPick": true,
+      "rating": null,
+      "note": "21+.",
+      "lat": 47.6215,
+      "lng": -122.3482
+    },
+    {
+      "id": "W1-28",
+      "name": "ALTER EGO: Halloween at W Bellevue (21+)",
+      "start": "2026-10-31T20:00:00-07:00",
+      "end": "2026-10-31T23:59:00-07:00",
+      "allDay": false,
+      "venue": "W Bellevue Living Room Bar, Downtown Bellevue",
+      "area": "Bellevue",
+      "category": "Food & drink / markets",
+      "price": "$85++ general admission",
+      "url": "https://www.eventbrite.com/e/alter-ego-halloween-at-w-bellevue-tickets-2002309230810",
+      "source": "eventbrite.com",
+      "isPick": true,
+      "rating": null,
+      "note": "21+.",
+      "lat": 47.615,
+      "lng": -122.2003
+    },
+    {
+      "id": "W1-31",
+      "name": "SoulFood Drag Night (Haus of Enby, open stage)",
+      "start": "2026-10-31T19:00:00-07:00",
+      "end": "2026-10-31T21:00:00-07:00",
+      "allDay": false,
+      "venue": "SoulFood CoffeeHouse, Redmond",
+      "area": "Redmond",
+      "category": "Live music & shows",
+      "price": "$5–$10 (listings differ)",
+      "url": "https://soulfoodcoffeehouse.com/events/soulfood-drag-night-3-3-2/2026-10-31/",
+      "source": "soulfoodcoffeehouse.com",
+      "isPick": true,
+      "rating": null,
+      "note": "SoulFood lists the night at $10, but the description also mentions a $5 cover; check at the door.",
+      "lat": 47.6742,
+      "lng": -122.1302
+    },
+    {
+      "id": "W1-18",
+      "name": "Día de Muertos Festival Seattle (Festál)",
+      "start": "2026-10-31T11:00:00-07:00",
+      "end": "2026-11-01T18:00:00-08:00",
+      "allDay": false,
+      "occurrences": [
+        {
+          "start": "2026-10-31T11:00:00-07:00",
+          "end": "2026-10-31T18:00:00-07:00"
+        },
+        {
+          "start": "2026-11-01T11:00:00-08:00",
+          "end": "2026-11-01T18:00:00-08:00"
+        }
+      ],
+      "venue": "Armory, Seattle Center",
+      "area": "Seattle",
+      "category": "Arts & culture",
+      "price": "Free",
+      "url": "https://seattlecenter.com/events/featured-events/festal/dia-de-muertos",
+      "source": "seattlecenter.com",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6215,
+      "lng": -122.3509
+    },
+    {
+      "id": "W1-32",
+      "name": "Queer Figure Drawing (clothed, drop-in)",
+      "start": "2026-11-01T14:00:00-08:00",
+      "end": "2026-11-01T16:00:00-08:00",
+      "allDay": false,
+      "venue": "Together Center, Redmond",
+      "area": "Redmond",
+      "category": "Arts & culture",
+      "price": "Free",
+      "url": "https://www.eventbrite.com/e/queer-figure-drawing-tickets-1104212913549",
+      "source": "eventbrite.com",
+      "isPick": true,
+      "rating": null,
+      "note": null,
+      "lat": 47.6795,
+      "lng": -122.1221
+    }
+  ]
+}
