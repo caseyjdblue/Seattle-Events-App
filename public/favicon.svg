@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Seattle Events">
+  <rect width="64" height="64" rx="14" fill="#14352b"/>
+  <rect x="14" y="16" width="36" height="34" rx="6" fill="#fbf7ef"/>
+  <rect x="14" y="16" width="36" height="10" rx="6" fill="#8a3010"/>
+  <rect x="14" y="22" width="36" height="4" fill="#8a3010"/>
+  <circle cx="24" cy="18" r="2" fill="#fbf7ef"/>
+  <circle cx="40" cy="18" r="2" fill="#fbf7ef"/>
+  <path d="M32 28.5l2.4 4.9 5.4.8-3.9 3.8.9 5.4L32 40.8l-4.8 2.6.9-5.4-3.9-3.8 5.4-.8z" fill="#14352b"/>
+</svg>
